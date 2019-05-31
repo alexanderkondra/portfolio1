@@ -109,7 +109,7 @@ ol {
 }
 
 #interests {
-  background-color: #A239CA;
+  background-color: #898980;
   color:  #E7DFDD;
   padding-left: 10px;
 }
@@ -149,7 +149,7 @@ ol {
 
 .panel .panel-info .panel-heading {
 
-  background: #a239ca; /* Old browsers */
+  background: #898980; /* Old browsers */
   color: #E7DFDD;
   font-family: 'Average Sans', sans-serif;
   border: 0;
@@ -188,5 +188,6 @@ ol {
 ol{
   font-size: 24px;
 }
-
-.panel
+.row{
+  background-color: #898980;
+}
