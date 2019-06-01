@@ -4,7 +4,7 @@
 
 #### By _**Alexander Kondra**_
 
-Link to github page https://alexanderkondra.github.io/portfolio1/
+Link to github page https://alexanderkondra.github.io/poortfolio1/
 
 ## Description
 My landing portfolio page with my projects and link about me
